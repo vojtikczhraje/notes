@@ -59,3 +59,32 @@
 |Přímý   |   |   |
 |   |   |   | 
 
+- Kalkulace přířážková
+    - Používý se tam, kde se vyrábí více druhů různorodých výrobků
+    - 33.8
+
+- Příklad
+  - Výrobní režie 3 600 000kč
+  - Správní režie 2 700 000kč
+  - výrobní režie: 200% 
+  - správní režie: 150%
+
+<img src='1.png' />
+<img src='2.jpeg' />
+<img src='3.png' />
+<img src='4.png' />
+<img src='5.png' />
+<img src='6.png' />
+<img src='7.png' />
+
+|Položka kalk. vzorce            |Pracovní kalhoty    |Zimní kabáty   |
+|---                             |---                 |---            |
+|Přímý materiál                  |61                  |304               |
+|Přímé mzdy                      |40                  |260               |
+|Ostatní přímé náklady           |14                  |88               | 
+|Výrobní režije _% přímých mezd  |80                  |520               |   
+|Vlastní náklady výroby          |195                 |1172               |   
+|Správní režije _% přímých mezd  |60                  |390               |
+|Vlástní náklady výkonu          |255                 |1562               |
+|Zisk                            |45                  |98               |
+|Prodejní cena                   |300                 |1660               |
