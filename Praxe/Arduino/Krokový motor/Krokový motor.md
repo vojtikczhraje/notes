@@ -5,6 +5,7 @@
 
 ## Zapojení
 <img src='https://navody.dratek.cz/images/obr_clanky/10_krokovy_motor/10_krokovy_motor.png' />
+<img src='krok_motor_kroky.jpg' />
 
 ## Základní informace
 - Slouží k přesnému nastavení úhlu natočení
@@ -12,7 +13,7 @@
 - Má 8 kroků
 - Je řízen řadičem, který aktivuje jednotlivé fáze viz. zapojení [[1](#zapojení)]
 
-## Ukázkový kód
+## Ukázkový kód [[1](https://navody.dratek.cz/navody-k-produktum/krokovy-motor-a-driver.html)]
 ```C
 // Krokový motor a driver
 
@@ -140,6 +141,13 @@ void krok8(){
 - Pří stisku tlačítka udělá motor 1 otáčku
 - Potencio metru řídí rychlost spoždění v rozsahu 1 - 10
 - Každá stisknutí tlačítka jiný směr
+
+### Zapojení:
+<img src='./krok_zapojeni_1.jpg' />
+<img src='./krok_zapojeni_2.jpg' />
+<img src='./krok_zapojeni_3.jpg' />
+
+### Kód:
 
 ```C
 // krokovy motor
